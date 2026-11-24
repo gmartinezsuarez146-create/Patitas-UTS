@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Logo Patitas UTS">
+  <rect width="64" height="64" rx="15" fill="#3D2C8D"/>
+  <ellipse cx="32" cy="41" rx="11" ry="9.5" fill="#FFB703"/>
+  <ellipse cx="18.5" cy="29" rx="4.6" ry="6" transform="rotate(-20 18.5 29)" fill="#FFFFFF"/>
+  <ellipse cx="26.5" cy="20.5" rx="4.6" ry="6.4" transform="rotate(-6 26.5 20.5)" fill="#FFFFFF"/>
+  <ellipse cx="37.5" cy="20.5" rx="4.6" ry="6.4" transform="rotate(6 37.5 20.5)" fill="#FFFFFF"/>
+  <ellipse cx="45.5" cy="29" rx="4.6" ry="6" transform="rotate(20 45.5 29)" fill="#FFFFFF"/>
+  <path d="M32 47.5c-.6 0-5.6-3.4-5.6-6.6a2.9 2.9 0 0 1 5.6-1.1 2.9 2.9 0 0 1 5.6 1.1c0 3.2-5 6.6-5.6 6.6z" fill="#3D2C8D"/>
+</svg>

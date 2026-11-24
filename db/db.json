@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Administrador del Sistema",
+      "email": "admin@patitas.org",
+      "usuario": "admin",
+      "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+      "rol": "admin",
+      "activo": true,
+      "fechaRegistro": "2026-11-24T08:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "nombre": "Usuario Global",
+      "email": "usuario@patitas.org",
+      "usuario": "usuario",
+      "password": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+      "rol": "usuario",
+      "activo": true,
+      "fechaRegistro": "2026-11-24T08:05:00.000Z"
+    }
+  ],
+  "mascotas": [
+    { "id": 1, "nombre": "Lucas", "especie": "Perro", "raza": "Labrador", "edad": "2 años", "sexo": "Macho", "tamano": "Grande", "estado": "Disponible", "vacunado": true, "esterilizado": true, "imagen": "https://images.dog.ceo/breeds/labrador/n02099712_3503.jpg", "descripcion": "Juguetón y muy cariñoso. Se lleva bien con niños y con otros perros.", "creadoPor": 1, "fechaCreacion": "2026-11-24T08:10:00.000Z" },
+    { "id": 2, "nombre": "Canela", "especie": "Perro", "raza": "Criolla", "edad": "8 meses", "sexo": "Hembra", "tamano": "Mediano", "estado": "Disponible", "vacunado": true, "esterilizado": false, "imagen": "", "descripcion": "Rescatada en Floridablanca. Tranquila, aprende rápido y le encanta pasear.", "creadoPor": 1, "fechaCreacion": "2026-11-24T08:11:00.000Z" },
+    { "id": 3, "nombre": "Michi", "especie": "Gato", "raza": "Criollo", "edad": "1 año", "sexo": "Macho", "tamano": "Pequeño", "estado": "Disponible", "vacunado": true, "esterilizado": true, "imagen": "", "descripcion": "Independiente pero mimoso. Ideal para apartamento.", "creadoPor": 1, "fechaCreacion": "2026-11-24T08:12:00.000Z" },
+    { "id": 4, "nombre": "Toby", "especie": "Perro", "raza": "Beagle", "edad": "4 años", "sexo": "Macho", "tamano": "Mediano", "estado": "En proceso", "vacunado": true, "esterilizado": true, "imagen": "https://images.dog.ceo/breeds/beagle/n02088364_11136.jpg", "descripcion": "Muy sociable y curioso. Necesita patio o paseos diarios.", "creadoPor": 1, "fechaCreacion": "2026-11-24T08:13:00.000Z", "solicitante": { "id": 2, "nombre": "Usuario Global", "email": "usuario@patitas.org" }, "fechaSolicitud": "2026-11-24T09:00:00.000Z" },
+    { "id": 5, "nombre": "Luna", "especie": "Gato", "raza": "Siamés", "edad": "3 años", "sexo": "Hembra", "tamano": "Pequeño", "estado": "Adoptado", "vacunado": true, "esterilizado": true, "imagen": "", "descripcion": "Ya encontró un hogar en Girón.", "creadoPor": 1, "fechaCreacion": "2026-11-24T08:14:00.000Z" },
+    { "id": 6, "nombre": "Rocky", "especie": "Perro", "raza": "Pastor alemán", "edad": "6 años", "sexo": "Macho", "tamano": "Grande", "estado": "Disponible", "vacunado": true, "esterilizado": false, "imagen": "https://images.dog.ceo/breeds/germanshepherd/n02106662_10406.jpg", "descripcion": "Noble y protector. Busca una familia con experiencia en perros grandes.", "creadoPor": 1, "fechaCreacion": "2026-11-24T08:15:00.000Z" }
+  ]
+}
