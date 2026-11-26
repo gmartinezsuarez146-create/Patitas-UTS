@@ -197,7 +197,7 @@ La explicación completa de endpoints, parámetros y respuestas está en [`docs/
 
 ## 13. Sustentación
 
-📹 Video de sustentación: *[pegar aquí el enlace de YouTube o Google Drive]*
+📹 Video de sustentación: https://screenrec.com/share/NhOor9vSYi
 
 ## 14. Licencia
 
